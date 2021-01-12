@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+
+        <meta charset="utf-8">
+        <title>诗歌图谱</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <!-- CSS -->
+
+        <script type="text/javascript" src="../static/js/jquery-1.10.2.min.js"></script>
+        <link type="text/css" rel='stylesheet' href='../static/css/kg_poem.css'>
+        <link type="text/css" rel='stylesheet' href='../static/css/test.css'>
+        <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+
+    </head>
+    <body>
+        <div class="header">
+            <div class="menu">
+            <ul class = "">
+            <li class = "menu_li"><a id ="cc" href="#" style="font-size: 30px"><strong>诗歌图谱</strong></a></li>
+            <li class = "menu_li1"><a id ="cc" href="./">主页</a></li>
+            <li class = "menu_li1"><a id ="cc" href="./authors">诗人</a></li>
+            <li class = "menu_li1"><a id ="cc" href="./poems">诗歌</a></li>
+            <li class = "menu_li1"><a id ="cc" href="./kb_lab">KG实验室</a></li>
+            <li class = "menu_li1"><a id ="cc" href="./about">关于我们</a></li>
+            </ul>
+            </div>
+        </div>
+
+        <div class="main">
+            <div class="kb_title">
+                <p style="font-size: 36px"><strong>您好，欢迎来到 诗歌问答</strong></p>
+                <br>
+            </div>
+            <div class="search">
+                <input type="text" class="search_data" id="search_data" placeholder="你想知道的关于诗歌的信息...">
+                <input type="submit" class="search_btn" id="search_data2" value="提问" onclick="search(this.value)">
+            </div>
+            <br/><br/>
+            <div class="answer">
+                  <p class="speech" id="answer">您好，我是诗歌小助手。希望能够帮助您！</p>
+            </div>
+
+            <script>
+                function search(value) {
+                    search_data = document.getElementById("search_data").value;
+                    $.ajax({
+                       type:'post',
+                       url:"/answer",
+                       data:{
+                         user:search_data
+                       },
+                       success:function(res){
+                        let answer = document.getElementById("answer");
+                        answer.innerHTML = res;
+                        }
+                    });
+                }
+            </script>
+
+        <div class="footer">
+            <div class="">
+                <p>2019 <a href="http://cs.ccnu.edu.cn/">华中师范大学-人工智能与智慧学习重点实验室</a></p>
+                <p><a href="http://cs.ccnu.edu.cn/">计算机学院 知识图谱小分队</a></p>
+                <!--<p>联系我们:<br><span>地址:湖北省武汉市洪山区珞喻路152号</span><br><span>电话:027-67867053</span></p>-->
+
+			</div>
+
+
+        </div>
+
+
+    <!-- Javascript -->
+
+    <script>
+
+        var circle_id =1;
+        function circle_control(circle)
+        {
+            rotate_1 = circle;
+            $("body").css("background-image","url('../static/images/backgrounds/"+circle+".jpg')")
+            rotate_1--;
+            if(rotate_1==0)
+            {
+                rotate_1=3;
+            }
+            setTimeout("circle_control("+rotate_1+")",5000);
+        }
+        setTimeout("circle_control("+circle_id+")");
+
+    </script>
+
+
+    </body>
+
+</html>
+

@@ -1,0 +1,571 @@
+af ->     Afrikaans ->     Afrikaans ->     南非荷兰文
+ af_NA ->     Afrikaans ->     Afrikaans (Namibia) ->     南非荷兰文 (纳米比亚) 
+ af_ZA ->     Afrikaans ->     Afrikaans (South Africa) ->     南非荷兰文 (南非) 
+ agq ->     Aghem ->     Aghem ->     亚罕文 
+ agq_CM ->     Aghem ->     Aghem (Cameroon) ->     亚罕文 (喀麦隆) 
+ ak ->     Akan ->     Akan ->     阿肯文 
+ ak_GH ->     Akan ->     Akan (Ghana) ->     阿肯文 (加纳) 
+ am ->     አማርኛ ->     Amharic ->     阿姆哈拉文 
+ am_ET ->     አማርኛ ->     Amharic (Ethiopia) ->     阿姆哈拉文 (埃塞俄比亚) 
+ ar ->     العربية ->     Arabic ->     阿拉伯文 
+ ar_001 ->     العربية ->     Arabic (World) ->     阿拉伯文 (世界) 
+ ar_AE ->     العربية ->     Arabic (United Arab Emirates) ->     阿拉伯文 (阿拉伯联合酋长国) 
+ ar_BH ->     العربية ->     Arabic (Bahrain) ->     阿拉伯文 (巴林) 
+ ar_DJ ->     العربية ->     Arabic (Djibouti) ->     阿拉伯文 (吉布提) 
+ ar_DZ ->     العربية ->     Arabic (Algeria) ->     阿拉伯文 (阿尔及利亚) 
+ ar_EG ->     العربية ->     Arabic (Egypt) ->     阿拉伯文 (埃及) 
+ ar_EH ->     العربية ->     Arabic (Western Sahara) ->     阿拉伯文 (西撒哈拉) 
+ ar_ER ->     العربية ->     Arabic (Eritrea) ->     阿拉伯文 (厄立特里亚) 
+ ar_IL ->     العربية ->     Arabic (Israel) ->     阿拉伯文 (以色列) 
+ ar_IQ ->     العربية ->     Arabic (Iraq) ->     阿拉伯文 (伊拉克) 
+ ar_JO ->     العربية ->     Arabic (Jordan) ->     阿拉伯文 (约旦) 
+ ar_KM ->     العربية ->     Arabic (Comoros) ->     阿拉伯文 (科摩罗) 
+ ar_KW ->     العربية ->     Arabic (Kuwait) ->     阿拉伯文 (科威特) 
+ ar_LB ->     العربية ->     Arabic (Lebanon) ->     阿拉伯文 (黎巴嫩) 
+ ar_LY ->     العربية ->     Arabic (Libya) ->     阿拉伯文 (利比亚) 
+ ar_MA ->     العربية ->     Arabic (Morocco) ->     阿拉伯文 (摩洛哥) 
+ ar_MR ->     العربية ->     Arabic (Mauritania) ->     阿拉伯文 (毛里塔尼亚) 
+ ar_OM ->     العربية ->     Arabic (Oman) ->     阿拉伯文 (阿曼) 
+ ar_PS ->     العربية ->     Arabic (Palestine) ->     阿拉伯文 (巴勒斯坦) 
+ ar_QA ->     العربية ->     Arabic (Qatar) ->     阿拉伯文 (卡塔尔) 
+ ar_SA ->     العربية ->     Arabic (Saudi Arabia) ->     阿拉伯文 (沙特阿拉伯) 
+ ar_SD ->     العربية ->     Arabic (Sudan) ->     阿拉伯文 (苏丹) 
+ ar_SO ->     العربية ->     Arabic (Somalia) ->     阿拉伯文 (索马里) 
+ ar_SY ->     العربية ->     Arabic (Syria) ->     阿拉伯文 (叙利亚) 
+ ar_TD ->     العربية ->     Arabic (Chad) ->     阿拉伯文 (乍得) 
+ ar_TN ->     العربية ->     Arabic (Tunisia) ->     阿拉伯文 (突尼斯) 
+ ar_YE ->     العربية ->     Arabic (Yemen) ->     阿拉伯文 (也门) 
+ as ->     অসমীয়া ->     Assamese ->     阿萨姆文 
+ as_IN ->     অসমীয়া ->     Assamese (India) ->     阿萨姆文 (印度) 
+ asa ->     Kipare ->     Asu ->     阿苏文 
+ asa_TZ ->     Kipare ->     Asu (Tanzania) ->     阿苏文 (坦桑尼亚) 
+ az ->     azərbaycanca ->     Azerbaijani ->     阿塞拜疆文 
+ az_CYRL ->     Азәрбајҹан ->     Azerbaijani (CYRL) ->     阿塞拜疆文 (CYRL) 
+ az_CYRL_AZ ->     Азәрбајҹан ->     Azerbaijani (Azerbaijan,AZ) ->     阿塞拜疆文 (阿塞拜疆,AZ) 
+ az_LATN ->     azərbaycanca ->     Azerbaijani (LATN) ->     阿塞拜疆文 (LATN) 
+ az_LATN_AZ ->     azərbaycanca ->     Azerbaijani (Azerbaijan,AZ) ->     阿塞拜疆文 (阿塞拜疆,AZ) 
+ bas ->     Ɓàsàa ->     Basaa ->     巴萨文 
+ bas_CM ->     Ɓàsàa ->     Basaa (Cameroon) ->     巴萨文 (喀麦隆) 
+ be ->     беларуская ->     Belarusian ->     白俄罗斯文 
+ be_BY ->     беларуская ->     Belarusian (Belarus) ->     白俄罗斯文 (白俄罗斯) 
+ bem ->     Ichibemba ->     Bemba ->     别姆巴文 
+ bem_ZM ->     Ichibemba ->     Bemba (Zambia) ->     别姆巴文 (赞比亚) 
+ bez ->     Hibena ->     Bena ->     贝纳文 
+ bez_TZ ->     Hibena ->     Bena (Tanzania) ->     贝纳文 (坦桑尼亚) 
+ bg ->     български ->     Bulgarian ->     保加利亚文 
+ bg_BG ->     български ->     Bulgarian (Bulgaria) ->     保加利亚文 (保加利亚) 
+ bm ->     bamanakan ->     Bambara ->     班巴拉文 
+ bm_ML ->     bamanakan ->     Bambara (Mali) ->     班巴拉文 (马里) 
+ bn ->     বাংলা ->     Bengali ->     孟加拉文 
+ bn_BD ->     বাংলা ->     Bengali (Bangladesh) ->     孟加拉文 (孟加拉国) 
+ bn_IN ->     বাংলা ->     Bengali (India) ->     孟加拉文 (印度) 
+ bo ->     པོད་སྐད་ ->     Tibetan ->     藏文
+ bo_CN ->     པོད་སྐད་ ->     Tibetan (China) ->     藏文 (中国) 
+ bo_IN ->     པོད་སྐད་ ->     Tibetan (India) ->     藏文 (印度) 
+ br ->     brezhoneg ->     Breton ->     布里多尼文 
+ br_FR ->     brezhoneg ->     Breton (France) ->     布里多尼文 (法国) 
+ brx ->     बड़ो ->     Bodo ->     博多文 
+ brx_IN ->     बड़ो ->     Bodo (India) ->     博多文 (印度) 
+ bs ->     bosanski ->     Bosnian ->     波斯尼亚文 
+ bs_CYRL ->     босански ->     Bosnian (CYRL) ->     波斯尼亚文 (CYRL) 
+ bs_CYRL_BA ->     босански ->     Bosnian (Bosnia and Herzegovina,BA) ->     波斯尼亚文 (波斯尼亚和黑塞哥维那,BA) 
+ bs_LATN ->     bosanski ->     Bosnian (LATN) ->     波斯尼亚文 (LATN) 
+ bs_LATN_BA ->     bosanski ->     Bosnian (Bosnia and Herzegovina,BA) ->     波斯尼亚文 (波斯尼亚和黑塞哥维那,BA) 
+ ca ->     català ->     Catalan ->     加泰罗尼亚文 
+ ca_AD ->     català ->     Catalan (Andorra) ->     加泰罗尼亚文 (安道尔) 
+ ca_ES ->     català ->     Catalan (Spain) ->     加泰罗尼亚文 (西班牙) 
+ cgg ->     Rukiga ->     Chiga ->     奇加文 
+ cgg_UG ->     Rukiga ->     Chiga (Uganda) ->     奇加文 (乌干达) 
+ chr ->     ᏣᎳᎩ ->     Cherokee ->     彻罗基文 
+ chr_US ->     ᏣᎳᎩ ->     Cherokee (United States) ->     彻罗基文 (美国) 
+ cs ->     čeština ->     Czech ->     捷克文 
+ cs_CZ ->     čeština ->     Czech (Czech Republic) ->     捷克文 (捷克共和国) 
+ cy ->     Cymraeg ->     Welsh ->     威尔士文 
+ cy_GB ->     Cymraeg ->     Welsh (United Kingdom) ->     威尔士文 (英国) 
+ da ->     dansk ->     Danish ->     丹麦文 
+ da_DK ->     dansk ->     Danish (Denmark) ->     丹麦文 (丹麦) 
+ dav ->     Kitaita ->     Taita ->     台塔文 
+ dav_KE ->     Kitaita ->     Taita (Kenya) ->     台塔文 (肯尼亚) 
+ de ->     Deutsch ->     German ->     德文 
+ de_AT ->     Deutsch ->     German (Austria) ->     德文 (奥地利) 
+ de_BE ->     Deutsch ->     German (Belgium) ->     德文 (比利时) 
+ de_CH ->     Deutsch ->     German (Switzerland) ->     德文 (瑞士) 
+ de_DE ->     Deutsch ->     German (Germany) ->     德文 (德国) 
+ de_LI ->     Deutsch ->     German (Liechtenstein) ->     德文 (列支敦士登) 
+ de_LU ->     Deutsch ->     German (Luxembourg) ->     德文 (卢森堡) 
+ dje ->     Zarmaciine ->     Zarma ->     哲尔马文 
+ dje_NE ->     Zarmaciine ->     Zarma (Niger) ->     哲尔马文 (尼日尔) 
+ dua ->     duálá ->     Duala ->     都阿拉文 
+ dua_CM ->     duálá ->     Duala (Cameroon) ->     都阿拉文 (喀麦隆) 
+ dyo ->     joola ->     Jola-Fonyi ->     朱拉文 
+ dyo_SN ->     joola ->     Jola-Fonyi (Senegal) ->     朱拉文 (塞内加尔) 
+ dz ->     རྫོང་ཁ ->     Dzongkha ->     不丹文 
+ dz_BT ->     རྫོང་ཁ ->     Dzongkha (Bhutan) ->     不丹文 (不丹) 
+ ebu ->     Kĩembu ->     Embu ->     恩布文 
+ ebu_KE ->     Kĩembu ->     Embu (Kenya) ->     恩布文 (肯尼亚) 
+ ee ->     eʋegbe ->     Ewe ->     埃维文 
+ ee_GH ->     eʋegbe ->     Ewe (Ghana) ->     埃维文 (加纳) 
+ ee_TG ->     eʋegbe ->     Ewe (Togo) ->     埃维文 (多哥) 
+ el ->     Ελληνικά ->     Greek ->     希腊文 
+ el_CY ->     Ελληνικά ->     Greek (Cyprus) ->     希腊文 (塞浦路斯) 
+ el_GR ->     Ελληνικά ->     Greek (Greece) ->     希腊文 (希腊) 
+ en ->     English ->     English ->     英文 
+ en_150 ->     English ->     English (Europe) ->     英文 (欧洲) 
+ en_AG ->     English ->     English (Antigua and Barbuda) ->     英文 (安提瓜和巴布达) 
+ en_AS ->     English ->     English (American Samoa) ->     英文 (美属萨摩亚) 
+ en_AU ->     English ->     English (Australia) ->     英文 (澳大利亚) 
+ en_BB ->     English ->     English (Barbados) ->     英文 (巴巴多斯) 
+ en_BE ->     English ->     English (Belgium) ->     英文 (比利时) 
+ en_BM ->     English ->     English (Bermuda) ->     英文 (百慕大) 
+ en_BS ->     English ->     English (Bahamas) ->     英文 (巴哈马) 
+ en_BW ->     English ->     English (Botswana) ->     英文 (博茨瓦纳) 
+ en_BZ ->     English ->     English (Belize) ->     英文 (伯利兹) 
+ en_CA ->     English ->     English (Canada) ->     英文 (加拿大) 
+ en_CM ->     English ->     English (Cameroon) ->     英文 (喀麦隆) 
+ en_DM ->     English ->     English (Dominica) ->     英文 (多米尼克) 
+ en_FJ ->     English ->     English (Fiji) ->     英文 (斐济) 
+ en_FM ->     English ->     English (Micronesia) ->     英文 (密克罗尼西亚联邦) 
+ en_GB ->     English ->     English (United Kingdom) ->     英文 (英国) 
+ en_GD ->     English ->     English (Grenada) ->     英文 (格林纳达) 
+ en_GG ->     English ->     English (Guernsey) ->     英文 (根西岛) 
+ en_GH ->     English ->     English (Ghana) ->     英文 (加纳) 
+ en_GI ->     English ->     English (Gibraltar) ->     英文 (直布罗陀) 
+ en_GM ->     English ->     English (Gambia) ->     英文 (冈比亚) 
+ en_GU ->     English ->     English (Guam) ->     英文 (关岛) 
+ en_GY ->     English ->     English (Guyana) ->     英文 (圭亚那) 
+ en_HK ->     English ->     English (Hong Kong) ->     英文 (香港) 
+ en_IE ->     English ->     English (Ireland) ->     英文 (爱尔兰) 
+ en_IM ->     English ->     English (Isle of Man) ->     英文 (曼岛) 
+ en_IN ->     English ->     English (India) ->     英文 (印度) 
+ en_JE ->     English ->     English (Jersey) ->     英文 (泽西岛) 
+ en_JM ->     English ->     English (Jamaica) ->     英文 (牙买加) 
+ en_KE ->     English ->     English (Kenya) ->     英文 (肯尼亚) 
+ en_KI ->     English ->     English (Kiribati) ->     英文 (基里巴斯) 
+ en_KN ->     English ->     English (Saint Kitts and Nevis) ->     英文 (圣基茨和尼维斯) 
+ en_KY ->     English ->     English (Cayman Islands) ->     英文 (开曼群岛) 
+ en_LC ->     English ->     English (Saint Lucia) ->     英文 (圣卢西亚) 
+ en_LR ->     English ->     English (Liberia) ->     英文 (利比里亚) 
+ en_LS ->     English ->     English (Lesotho) ->     英文 (莱索托) 
+ en_MG ->     English ->     English (Madagascar) ->     英文 (马达加斯加) 
+ en_MH ->     English ->     English (Marshall Islands) ->     英文 (马绍尔群岛) 
+ en_MP ->     English ->     English (Northern Mariana Islands) ->     英文 (北马里亚纳群岛) 
+ en_MT ->     English ->     English (Malta) ->     英文 (马耳他) 
+ en_MU ->     English ->     English (Mauritius) ->     英文 (毛里求斯) 
+ en_MW ->     English ->     English (Malawi) ->     英文 (马拉维) 
+ en_NA ->     English ->     English (Namibia) ->     英文 (纳米比亚) 
+ en_NG ->     English ->     English (Nigeria) ->     英文 (尼日利亚) 
+ en_NZ ->     English ->     English (New Zealand) ->     英文 (新西兰) 
+ en_PG ->     English ->     English (Papua New Guinea) ->     英文 (巴布亚新几内亚) 
+ en_PH ->     English ->     English (Philippines) ->     英文 (菲律宾) 
+ en_PK ->     English ->     English (Pakistan) ->     英文 (巴基斯坦) 
+ en_PR ->     English ->     English (Puerto Rico) ->     英文 (波多黎各) 
+ en_PW ->     English ->     English (Palau) ->     英文 (帕劳) 
+ en_SB ->     English ->     English (Solomon Islands) ->     英文 (所罗门群岛) 
+ en_SC ->     English ->     English (Seychelles) ->     英文 (塞舌尔) 
+ en_SG ->     English ->     English (Singapore) ->     英文 (新加坡) 
+ en_SL ->     English ->     English (Sierra Leone) ->     英文 (塞拉利昂) 
+ en_SS ->     English ->     English (South Sudan) ->     英文 (南苏丹) 
+ en_SZ ->     English ->     English (Swaziland) ->     英文 (斯威士兰) 
+ en_TC ->     English ->     English (Turks and Caicos Islands) ->     英文 (特克斯和凯科斯群岛) 
+ en_TO ->     English ->     English (Tonga) ->     英文 (汤加) 
+ en_TT ->     English ->     English (Trinidad and Tobago) ->     英文 (特立尼达和多巴哥) 
+ en_TZ ->     English ->     English (Tanzania) ->     英文 (坦桑尼亚) 
+ en_UG ->     English ->     English (Uganda) ->     英文 (乌干达) 
+ en_UM ->     English ->     English (U.S. Outlying Islands) ->     英文 (美国本土外小岛) 
+ en_US ->     English ->     English (United States) ->     英文 (美国) 
+ en_US_POSIX ->     English ->     English (United States,Computer) ->     英文 (美国,电脑) 
+ en_VC ->     English ->     English (Saint Vincent and the Grenadines) ->     英文 (圣文森特和格林纳丁斯) 
+ en_VG ->     English ->     English (British Virgin Islands) ->     英文 (英属维京群岛) 
+ en_VI ->     English ->     English (U.S. Virgin Islands) ->     英文 (美属维京群岛) 
+ en_VU ->     English ->     English (Vanuatu) ->     英文 (瓦努阿图) 
+ en_WS ->     English ->     English (Samoa) ->     英文 (萨摩亚) 
+ en_ZA ->     English ->     English (South Africa) ->     英文 (南非) 
+ en_ZM ->     English ->     English (Zambia) ->     英文 (赞比亚) 
+ en_ZW ->     English ->     English (Zimbabwe) ->     英文 (津巴布韦) 
+ eo ->     esperanto ->     Esperanto ->     世界文 
+ es ->     español ->     Spanish ->     西班牙文
+ es_419 ->     español ->     Spanish (Latin America) ->     西班牙文 (拉丁美洲) 
+ es_AR ->     español ->     Spanish (Argentina) ->     西班牙文 (阿根廷) 
+ es_BO ->     español ->     Spanish (Bolivia) ->     西班牙文 (玻利维亚) 
+ es_CL ->     español ->     Spanish (Chile) ->     西班牙文 (智利) 
+ es_CO ->     español ->     Spanish (Colombia) ->     西班牙文 (哥伦比亚) 
+ es_CR ->     español ->     Spanish (Costa Rica) ->     西班牙文 (哥斯达黎加) 
+ es_CU ->     español ->     Spanish (Cuba) ->     西班牙文 (古巴) 
+ es_DO ->     español ->     Spanish (Dominican Republic) ->     西班牙文 (多米尼加共和国) 
+ es_EA ->     español ->     Spanish (Ceuta and Melilla) ->     西班牙文 (休达及梅利利亚) 
+ es_EC ->     español ->     Spanish (Ecuador) ->     西班牙文 (厄瓜多尔) 
+ es_ES ->     español ->     Spanish (Spain) ->     西班牙文 (西班牙) 
+ es_GQ ->     español ->     Spanish (Equatorial Guinea) ->     西班牙文 (赤道几内亚) 
+ es_GT ->     español ->     Spanish (Guatemala) ->     西班牙文 (危地马拉) 
+ es_HN ->     español ->     Spanish (Honduras) ->     西班牙文 (洪都拉斯) 
+ es_IC ->     español ->     Spanish (Canary Islands) ->     西班牙文 (加纳利群岛) 
+ es_MX ->     español ->     Spanish (Mexico) ->     西班牙文 (墨西哥) 
+ es_NI ->     español ->     Spanish (Nicaragua) ->     西班牙文 (尼加拉瓜) 
+ es_PA ->     español ->     Spanish (Panama) ->     西班牙文 (巴拿马) 
+ es_PE ->     español ->     Spanish (Peru) ->     西班牙文 (秘鲁) 
+ es_PH ->     español ->     Spanish (Philippines) ->     西班牙文 (菲律宾) 
+ es_PR ->     español ->     Spanish (Puerto Rico) ->     西班牙文 (波多黎各) 
+ es_PY ->     español ->     Spanish (Paraguay) ->     西班牙文 (巴拉圭) 
+ es_SV ->     español ->     Spanish (El Salvador) ->     西班牙文 (萨尔瓦多) 
+ es_US ->     español ->     Spanish (United States) ->     西班牙文 (美国) 
+ es_UY ->     español ->     Spanish (Uruguay) ->     西班牙文 (乌拉圭) 
+ es_VE ->     español ->     Spanish (Venezuela) ->     西班牙文 (委内瑞拉) 
+ et ->     eesti ->     Estonian ->     爱沙尼亚文 
+ et_EE ->     eesti ->     Estonian (Estonia) ->     爱沙尼亚文 (爱沙尼亚) 
+ eu ->     euskara ->     Basque ->     巴斯克文 
+ eu_ES ->     euskara ->     Basque (Spain) ->     巴斯克文 (西班牙) 
+ ewo ->     ewondo ->     Ewondo ->     旺杜文 
+ ewo_CM ->     ewondo ->     Ewondo (Cameroon) ->     旺杜文 (喀麦隆) 
+ fa ->     فارسی ->     Persian ->     波斯文 
+ fa_AF ->     دری ->     Persian (Afghanistan) ->     波斯文 (阿富汗) 
+ fa_IR ->     فارسی ->     Persian (Iran) ->     波斯文 (伊朗) 
+ ff ->     Pulaar ->     Fulah ->     夫拉文 
+ ff_SN ->     Pulaar ->     Fulah (Senegal) ->     夫拉文 (塞内加尔) 
+ fi ->     suomi ->     Finnish ->     芬兰文 
+ fi_FI ->     suomi ->     Finnish (Finland) ->     芬兰文 (芬兰) 
+ fil ->     Filipino ->     Filipino ->     菲律宾文 
+ fil_PH ->     Filipino ->     Filipino (Philippines) ->     菲律宾文 (菲律宾) 
+ fo ->     føroyskt ->     Faroese ->     法罗文 
+ fo_FO ->     føroyskt ->     Faroese (Faroe Islands) ->     法罗文 (法罗群岛) 
+ fr ->     français ->     French ->     法文 
+ fr_BE ->     français ->     French (Belgium) ->     法文 (比利时) 
+ fr_BF ->     français ->     French (Burkina Faso) ->     法文 (布基纳法索) 
+ fr_BI ->     français ->     French (Burundi) ->     法文 (布隆迪) 
+ fr_BJ ->     français ->     French (Benin) ->     法文 (贝宁) 
+ fr_BL ->     français ->     French (Saint Barthélemy) ->     法文 (圣巴泰勒米) 
+ fr_CA ->     français ->     French (Canada) ->     法文 (加拿大) 
+ fr_CD ->     français ->     French (Congo [DRC]) ->     法文 (刚果（金）) 
+ fr_CF ->     français ->     French (Central African Republic) ->     法文 (中非共和国) 
+ fr_CG ->     français ->     French (Congo [Republic]) ->     法文 (刚果（布）) 
+ fr_CH ->     français ->     French (Switzerland) ->     法文 (瑞士) 
+ fr_CI ->     français ->     French (Côte d’Ivoire) ->     法文 (科特迪瓦) 
+ fr_CM ->     français ->     French (Cameroon) ->     法文 (喀麦隆) 
+ fr_DJ ->     français ->     French (Djibouti) ->     法文 (吉布提) 
+ fr_DZ ->     français ->     French (Algeria) ->     法文 (阿尔及利亚) 
+ fr_FR ->     français ->     French (France) ->     法文 (法国) 
+ fr_GA ->     français ->     French (Gabon) ->     法文 (加蓬) 
+ fr_GF ->     français ->     French (French Guiana) ->     法文 (法属圭亚那) 
+ fr_GN ->     français ->     French (Guinea) ->     法文 (几内亚) 
+ fr_GP ->     français ->     French (Guadeloupe) ->     法文 (瓜德罗普岛) 
+ fr_GQ ->     français ->     French (Equatorial Guinea) ->     法文 (赤道几内亚) 
+ fr_HT ->     français ->     French (Haiti) ->     法文 (海地) 
+ fr_KM ->     français ->     French (Comoros) ->     法文 (科摩罗) 
+ fr_LU ->     français ->     French (Luxembourg) ->     法文 (卢森堡) 
+ fr_MA ->     français ->     French (Morocco) ->     法文 (摩洛哥) 
+ fr_MC ->     français ->     French (Monaco) ->     法文 (摩纳哥) 
+ fr_MF ->     français ->     French (Saint Martin) ->     法文 (法属圣马丁) 
+ fr_MG ->     français ->     French (Madagascar) ->     法文 (马达加斯加) 
+ fr_ML ->     français ->     French (Mali) ->     法文 (马里) 
+ fr_MQ ->     français ->     French (Martinique) ->     法文 (马提尼克) 
+ fr_MR ->     français ->     French (Mauritania) ->     法文 (毛里塔尼亚) 
+ fr_MU ->     français ->     French (Mauritius) ->     法文 (毛里求斯) 
+ fr_NC ->     français ->     French (New Caledonia) ->     法文 (新喀里多尼亚) 
+ fr_NE ->     français ->     French (Niger) ->     法文 (尼日尔) 
+ fr_PF ->     français ->     French (French Polynesia) ->     法文 (法属波利尼西亚) 
+ fr_RE ->     français ->     French (Réunion) ->     法文 (留尼汪) 
+ fr_RW ->     français ->     French (Rwanda) ->     法文 (卢旺达) 
+ fr_SC ->     français ->     French (Seychelles) ->     法文 (塞舌尔) 
+ fr_SN ->     français ->     French (Senegal) ->     法文 (塞内加尔) 
+ fr_SY ->     français ->     French (Syria) ->     法文 (叙利亚) 
+ fr_TD ->     français ->     French (Chad) ->     法文 (乍得) 
+ fr_TG ->     français ->     French (Togo) ->     法文 (多哥) 
+ fr_TN ->     français ->     French (Tunisia) ->     法文 (突尼斯) 
+ fr_VU ->     français ->     French (Vanuatu) ->     法文 (瓦努阿图) 
+ fr_YT ->     français ->     French (Mayotte) ->     法文 (马约特) 
+ ga ->     Gaeilge ->     Irish ->     爱尔兰文 
+ ga_IE ->     Gaeilge ->     Irish (Ireland) ->     爱尔兰文 (爱尔兰) 
+ gl ->     galego ->     Galician ->     加利西亚文 
+ gl_ES ->     galego ->     Galician (Spain) ->     加利西亚文 (西班牙) 
+ gsw ->     Schwiizertüütsch ->     Swiss German ->     瑞士德文 
+ gsw_CH ->     Schwiizertüütsch ->     Swiss German (Switzerland) ->     瑞士德文 (瑞士) 
+ gu ->     ગુજરાતી ->     Gujarati ->     古吉拉特文 
+ gu_IN ->     ગુજરાતી ->     Gujarati (India) ->     古吉拉特文 (印度) 
+ guz ->     Ekegusii ->     Gusii ->     古西文 
+ guz_KE ->     Ekegusii ->     Gusii (Kenya) ->     古西文 (肯尼亚) 
+ gv ->     Gaelg ->     Manx ->     马恩岛文 
+ gv_GB ->     Gaelg ->     Manx (United Kingdom) ->     马恩岛文 (英国) 
+ ha ->     Hausa ->     Hausa ->     豪萨文 
+ ha_LATN ->     Hausa ->     Hausa (LATN) ->     豪萨文 (LATN) 
+ ha_LATN_GH ->     Hausa ->     Hausa (Ghana,GH) ->     豪萨文 (加纳,GH) 
+ ha_LATN_NE ->     Hausa ->     Hausa (Niger,NE) ->     豪萨文 (尼日尔,NE) 
+ ha_LATN_NG ->     Hausa ->     Hausa (Nigeria,NG) ->     豪萨文 (尼日利亚,NG) 
+ haw ->     ʻŌlelo Hawaiʻi ->     Hawaiian ->     夏威夷文 
+ haw_US ->     ʻŌlelo Hawaiʻi ->     Hawaiian (United States) ->     夏威夷文 (美国) 
+ iw ->     עברית ->     Hebrew ->     希伯来文 
+ iw_IL ->     עברית ->     Hebrew (Israel) ->     希伯来文 (以色列) 
+ hi ->     हिन्दी ->     Hindi ->     印地文 
+ hi_IN ->     हिन्दी ->     Hindi (India) ->     印地文 (印度) 
+ hr ->     hrvatski ->     Croatian ->     克罗地亚文 
+ hr_BA ->     hrvatski ->     Croatian (Bosnia and Herzegovina) ->     克罗地亚文 (波斯尼亚和黑塞哥维那) 
+ hr_HR ->     hrvatski ->     Croatian (Croatia) ->     克罗地亚文 (克罗地亚) 
+ hu ->     magyar ->     Hungarian ->     匈牙利文 
+ hu_HU ->     magyar ->     Hungarian (Hungary) ->     匈牙利文 (匈牙利) 
+ hy ->     հայերեն ->     Armenian ->     亚美尼亚文 
+ hy_AM ->     հայերեն ->     Armenian (Armenia) ->     亚美尼亚文 (亚美尼亚) 
+ in ->     Bahasa Indonesia ->     Indonesian ->     印度尼西亚文 
+ in_ID ->     Bahasa Indonesia ->     Indonesian (Indonesia) ->     印度尼西亚文 (印度尼西亚) 
+ ig ->     Igbo ->     Igbo ->     伊布文 
+ ig_NG ->     Igbo ->     Igbo (Nigeria) ->     伊布文 (尼日利亚) 
+ ii ->     ꆈꌠꉙ ->     Sichuan Yi ->     四川彝文 
+ ii_CN ->     ꆈꌠꉙ ->     Sichuan Yi (China) ->     四川彝文 (中国) 
+ is ->     íslenska ->     Icelandic ->     冰岛文 
+ is_IS ->     íslenska ->     Icelandic (Iceland) ->     冰岛文 (冰岛) 
+ it ->     italiano ->     Italian ->     意大利文 
+ it_CH ->     italiano ->     Italian (Switzerland) ->     意大利文 (瑞士) 
+ it_IT ->     italiano ->     Italian (Italy) ->     意大利文 (意大利) 
+ it_SM ->     italiano ->     Italian (San Marino) ->     意大利文 (圣马力诺) 
+ ja ->     日本語 ->     Japanese ->     日文 
+ ja_JP ->     日本語 ->     Japanese (Japan) ->     日文 (日本) 
+ jgo ->     Ndaꞌa ->     Ngomba ->     jgo 
+ jgo_CM ->     Ndaꞌa ->     Ngomba (Cameroon) ->     jgo (喀麦隆) 
+ jmc ->     Kimachame ->     Machame ->     马切姆文 
+ jmc_TZ ->     Kimachame ->     Machame (Tanzania) ->     马切姆文 (坦桑尼亚) 
+ ka ->     ქართული ->     Georgian ->     格鲁吉亚文 
+ ka_GE ->     ქართული ->     Georgian (Georgia) ->     格鲁吉亚文 (格鲁吉亚) 
+ kab ->     Taqbaylit ->     Kabyle ->     卡比尔文 
+ kab_DZ ->     Taqbaylit ->     Kabyle (Algeria) ->     卡比尔文 (阿尔及利亚) 
+ kam ->     Kikamba ->     Kamba ->     卡姆巴文 
+ kam_KE ->     Kikamba ->     Kamba (Kenya) ->     卡姆巴文 (肯尼亚) 
+ kde ->     Chimakonde ->     Makonde ->     马孔德文 
+ kde_TZ ->     Chimakonde ->     Makonde (Tanzania) ->     马孔德文 (坦桑尼亚) 
+ kea ->     kabuverdianu ->     Kabuverdianu ->     卡布佛得鲁文 
+ kea_CV ->     kabuverdianu ->     Kabuverdianu (Cape Verde) ->     卡布佛得鲁文 (佛得角) 
+ khq ->     Koyra ciini ->     Koyra Chiini ->     西桑海文 
+ khq_ML ->     Koyra ciini ->     Koyra Chiini (Mali) ->     西桑海文 (马里) 
+ ki ->     Gikuyu ->     Kikuyu ->     吉库尤文 
+ ki_KE ->     Gikuyu ->     Kikuyu (Kenya) ->     吉库尤文 (肯尼亚) 
+ kk ->     қазақ тілі ->     Kazakh ->     哈萨克文 
+ kk_CYRL ->     қазақ тілі ->     Kazakh (CYRL) ->     哈萨克文 (CYRL) 
+ kk_CYRL_KZ ->     қазақ тілі ->     Kazakh (Kazakhstan,KZ) ->     哈萨克文 (哈萨克斯坦,KZ) 
+ kl ->     kalaallisut ->     Kalaallisut ->     格陵兰文 
+ kl_GL ->     kalaallisut ->     Kalaallisut (Greenland) ->     格陵兰文 (格陵兰) 
+ kln ->     Kalenjin ->     Kalenjin ->     卡伦金文 
+ kln_KE ->     Kalenjin ->     Kalenjin (Kenya) ->     卡伦金文 (肯尼亚) 
+ km ->     ខ្មែរ ->     Khmer ->     高棉文 
+ km_KH ->     ខ្មែរ ->     Khmer (Cambodia) ->     高棉文 (柬埔寨) 
+ kn ->     ಕನ್ನಡ ->     Kannada ->     卡纳达文 
+ kn_IN ->     ಕನ್ನಡ ->     Kannada (India) ->     卡纳达文 (印度) 
+ ko ->     한국어 ->     Korean ->     韩文 
+ ko_KP ->     한국어 ->     Korean (North Korea) ->     韩文 (朝鲜) 
+ ko_KR ->     한국어 ->     Korean (South Korea) ->     韩文 (韩国) 
+ kok ->     कोंकणी ->     Konkani ->     刚卡尼文 
+ kok_IN ->     कोंकणी ->     Konkani (India) ->     刚卡尼文 (印度) 
+ ks ->     کٲشُر ->     Kashmiri ->     克什米尔文
+
+ ks_ARAB ->     کٲشُر ->     Kashmiri (ARAB) ->     克什米尔文 (ARAB) 
+ ks_ARAB_IN ->     کٲشُر ->     Kashmiri (India,IN) ->     克什米尔文 (印度,IN) 
+ ksb ->     Kishambaa ->     Shambala ->     香巴拉文 
+ ksb_TZ ->     Kishambaa ->     Shambala (Tanzania) ->     香巴拉文 (坦桑尼亚) 
+ ksf ->     rikpa ->     Bafia ->     巴菲亚文 
+ ksf_CM ->     rikpa ->     Bafia (Cameroon) ->     巴菲亚文 (喀麦隆) 
+ kw ->     kernewek ->     Cornish ->     凯尔特文 
+ kw_GB ->     kernewek ->     Cornish (United Kingdom) ->     凯尔特文 (英国) 
+ lag ->     Kɨlaangi ->     Langi ->     朗吉文 
+ lag_TZ ->     Kɨlaangi ->     Langi (Tanzania) ->     朗吉文 (坦桑尼亚) 
+ lg ->     Luganda ->     Ganda ->     卢干达文 
+ lg_UG ->     Luganda ->     Ganda (Uganda) ->     卢干达文 (乌干达) 
+ ln ->     lingála ->     Lingala ->     林加拉文 
+ ln_AO ->     lingála ->     Lingala (Angola) ->     林加拉文 (安哥拉) 
+ ln_CD ->     lingála ->     Lingala (Congo [DRC]) ->     林加拉文 (刚果（金）) 
+ ln_CF ->     lingála ->     Lingala (Central African Republic) ->     林加拉文 (中非共和国) 
+ ln_CG ->     lingála ->     Lingala (Congo [Republic]) ->     林加拉文 (刚果（布）) 
+ lo ->     ລາວ ->     Lao ->     老挝文 
+ lo_LA ->     ລາວ ->     Lao (Laos) ->     老挝文 (老挝) 
+ lt ->     lietuvių ->     Lithuanian ->     立陶宛文 
+ lt_LT ->     lietuvių ->     Lithuanian (Lithuania) ->     立陶宛文 (立陶宛) 
+ lu ->     Tshiluba ->     Luba-Katanga ->     鲁巴加丹加文 
+ lu_CD ->     Tshiluba ->     Luba-Katanga (Congo [DRC]) ->     鲁巴加丹加文 (刚果（金）) 
+ luo ->     Dholuo ->     Luo ->     卢奥文 
+ luo_KE ->     Dholuo ->     Luo (Kenya) ->     卢奥文 (肯尼亚) 
+ luy ->     Luluhia ->     Luyia ->     卢雅文 
+ luy_KE ->     Luluhia ->     Luyia (Kenya) ->     卢雅文 (肯尼亚) 
+ lv ->     latviešu ->     Latvian ->     拉脱维亚文 
+ lv_LV ->     latviešu ->     Latvian (Latvia) ->     拉脱维亚文 (拉脱维亚) 
+ mas ->     Maa ->     Masai ->     萨伊文 
+ mas_KE ->     Maa ->     Masai (Kenya) ->     萨伊文 (肯尼亚) 
+ mas_TZ ->     Maa ->     Masai (Tanzania) ->     萨伊文 (坦桑尼亚) 
+ mer ->     Kĩmĩrũ ->     Meru ->     梅鲁文 
+ mer_KE ->     Kĩmĩrũ ->     Meru (Kenya) ->     梅鲁文 (肯尼亚) 
+ mfe ->     kreol morisien ->     Morisyen ->     毛里求斯克里奥尔文 
+ mfe_MU ->     kreol morisien ->     Morisyen (Mauritius) ->     毛里求斯克里奥尔文 (毛里求斯) 
+ mg ->     Malagasy ->     Malagasy ->     马尔加什文 
+ mg_MG ->     Malagasy ->     Malagasy (Madagascar) ->     马尔加什文 (马达加斯加) 
+ mgh ->     Makua ->     Makhuwa-Meetto ->     马夸文 
+ mgh_MZ ->     Makua ->     Makhuwa-Meetto (Mozambique) ->     马夸文 (莫桑比克) 
+ mgo ->     metaʼ ->     Meta' ->     mgo 
+ mgo_CM ->     metaʼ ->     Meta' (Cameroon) ->     mgo (喀麦隆) 
+ mk ->     македонски ->     Macedonian ->     马其顿文 
+ mk_MK ->     македонски ->     Macedonian (Macedonia [FYROM]) ->     马其顿文 (马其顿) 
+ ml ->     മലയാളം ->     Malayalam ->     马拉雅拉姆文 
+ ml_IN ->     മലയാളം ->     Malayalam (India) ->     马拉雅拉姆文 (印度) 
+ mn ->     монгол ->     Mongolian ->     蒙古文 
+ mn_CYRL ->     монгол ->     Mongolian (CYRL) ->     蒙古文 (CYRL) 
+ mn_CYRL_MN ->     монгол ->     Mongolian (Mongolia,MN) ->     蒙古文 (蒙古,MN) 
+ mr ->     मराठी ->     Marathi ->     马拉地文 
+ mr_IN ->     मराठी ->     Marathi (India) ->     马拉地文 (印度) 
+ ms ->     Bahasa Melayu ->     Malay ->     马来文 
+ ms_LATN ->     Bahasa Melayu ->     Malay (LATN) ->     马来文 (LATN) 
+ ms_LATN_BN ->     Bahasa Melayu ->     Malay (Brunei,BN) ->     马来文 (文莱,BN) 
+ ms_LATN_MY ->     Bahasa Melayu ->     Malay (Malaysia,MY) ->     马来文 (马来西亚,MY) 
+ ms_LATN_SG ->     Bahasa Melayu ->     Malay (Singapore,SG) ->     马来文 (新加坡,SG) 
+ mt ->     Malti ->     Maltese ->     马耳他文 
+ mt_MT ->     Malti ->     Maltese (Malta) ->     马耳他文 (马耳他) 
+ mua ->     MUNDAŊ ->     Mundang ->     蒙当文 
+ mua_CM ->     MUNDAŊ ->     Mundang (Cameroon) ->     蒙当文 (喀麦隆) 
+ my ->     ဗမာ ->     Burmese ->     缅甸文 
+ my_MM ->     ဗမာ ->     Burmese (Myanmar [Burma]) ->     缅甸文 (缅甸) 
+ naq ->     Khoekhoegowab ->     Nama ->     纳马文 
+ naq_NA ->     Khoekhoegowab ->     Nama (Namibia) ->     纳马文 (纳米比亚) 
+ nb ->     norsk bokmål ->     Norwegian Bokmål ->     挪威博克马尔文 
+ nb_NO ->     norsk bokmål ->     Norwegian Bokmål (Norway) ->     挪威博克马尔文 (挪威) 
+ nd ->     isiNdebele ->     North Ndebele ->     北恩德贝勒文 
+ nd_ZW ->     isiNdebele ->     North Ndebele (Zimbabwe) ->     北恩德贝勒文 (津巴布韦) 
+ ne ->     नेपाली ->     Nepali ->     尼泊尔文 
+ ne_IN ->     नेपाली ->     Nepali (India) ->     尼泊尔文 (印度) 
+ ne_NP ->     नेपाली ->     Nepali (Nepal) ->     尼泊尔文 (尼泊尔) 
+ nl ->     Nederlands ->     Dutch ->     荷兰文 
+ nl_AW ->     Nederlands ->     Dutch (Aruba) ->     荷兰文 (阿鲁巴) 
+ nl_BE ->     Nederlands ->     Dutch (Belgium) ->     荷兰文 (比利时) 
+ nl_CW ->     Nederlands ->     Dutch (Curaçao) ->     荷兰文 (库拉索) 
+ nl_NL ->     Nederlands ->     Dutch (Netherlands) ->     荷兰文 (荷兰) 
+ nl_SR ->     Nederlands ->     Dutch (Suriname) ->     荷兰文 (苏里南) 
+ nl_SX ->     Nederlands ->     Dutch (Sint Maarten) ->     荷兰文 (荷属圣马丁) 
+ nmg ->     nmg ->     Kwasio ->     夸西奥文 
+ nmg_CM ->     nmg ->     Kwasio (Cameroon) ->     夸西奥文 (喀麦隆) 
+ nn ->     nynorsk ->     Norwegian Nynorsk ->     挪威尼诺斯克文 
+ nn_NO ->     nynorsk ->     Norwegian Nynorsk (Norway) ->     挪威尼诺斯克文 (挪威) 
+ nus ->     Thok Nath ->     Nuer ->     努埃尔文 
+ nus_SD ->     Thok Nath ->     Nuer (Sudan) ->     努埃尔文 (苏丹) 
+ nyn ->     Runyankore ->     Nyankole ->     尼昂科勒文 
+ nyn_UG ->     Runyankore ->     Nyankole (Uganda) ->     尼昂科勒文 (乌干达) 
+ om ->     Oromoo ->     Oromo ->     奥洛莫文 
+ om_ET ->     Oromoo ->     Oromo (Ethiopia) ->     奥洛莫文 (埃塞俄比亚) 
+ om_KE ->     Oromoo ->     Oromo (Kenya) ->     奥洛莫文 (肯尼亚) 
+ or ->     ଓଡ଼ିଆ ->     Oriya ->     欧里亚文 
+ or_IN ->     ଓଡ଼ିଆ ->     Oriya (India) ->     欧里亚文 (印度) 
+ pa ->     ਪੰਜਾਬੀ ->     Punjabi ->     旁遮普文 
+ pa_ARAB ->     پنجاب ->     Punjabi (ARAB) ->     旁遮普文 (ARAB) 
+ pa_ARAB_PK ->     پنجاب ->     Punjabi (Pakistan,PK) ->     旁遮普文 (巴基斯坦,PK) 
+ pa_GURU ->     ਪੰਜਾਬੀ ->     Punjabi (GURU) ->     旁遮普文 (GURU) 
+ pa_GURU_IN ->     ਪੰਜਾਬੀ ->     Punjabi (India,IN) ->     旁遮普文 (印度,IN) 
+ pl ->     polski ->     Polish ->     波兰文 
+ pl_PL ->     polski ->     Polish (Poland) ->     波兰文 (波兰) 
+ ps ->     پښتو ->     Pashto ->     普什图文 
+ ps_AF ->     پښتو ->     Pashto (Afghanistan) ->     普什图文 (阿富汗) 
+ pt ->     português ->     Portuguese ->     葡萄牙文 
+ pt_AO ->     português ->     Portuguese (Angola) ->     葡萄牙文 (安哥拉) 
+ pt_BR ->     português ->     Portuguese (Brazil) ->     葡萄牙文 (巴西) 
+ pt_CV ->     português ->     Portuguese (Cape Verde) ->     葡萄牙文 (佛得角) 
+ pt_GW ->     português ->     Portuguese (Guinea-Bissau) ->     葡萄牙文 (几内亚比绍) 
+ pt_MO ->     português ->     Portuguese (Macau) ->     葡萄牙文 (澳门) 
+ pt_MZ ->     português ->     Portuguese (Mozambique) ->     葡萄牙文 (莫桑比克) 
+ pt_PT ->     português ->     Portuguese (Portugal) ->     葡萄牙文 (葡萄牙) 
+ pt_ST ->     português ->     Portuguese (São Tomé and Príncipe) ->     葡萄牙文 (圣多美和普林西比) 
+ pt_TL ->     português ->     Portuguese (Timor-Leste) ->     葡萄牙文 (东帝汶) 
+ rm ->     rumantsch ->     Romansh ->     罗曼什文 
+ rm_CH ->     rumantsch ->     Romansh (Switzerland) ->     罗曼什文 (瑞士) 
+ rn ->     Ikirundi ->     Rundi ->     基隆迪文 
+ rn_BI ->     Ikirundi ->     Rundi (Burundi) ->     基隆迪文 (布隆迪) 
+ ro ->     română ->     Romanian ->     罗马尼亚文 
+ ro_MD ->     română ->     Romanian (Moldova) ->     罗马尼亚文 (摩尔多瓦) 
+ ro_RO ->     română ->     Romanian (Romania) ->     罗马尼亚文 (罗马尼亚) 
+ rof ->     Kihorombo ->     Rombo ->     兰博文 
+ rof_TZ ->     Kihorombo ->     Rombo (Tanzania) ->     兰博文 (坦桑尼亚) 
+ ru ->     русский ->     Russian ->     俄文 
+ ru_BY ->     русский ->     Russian (Belarus) ->     俄文 (白俄罗斯) 
+ ru_KG ->     русский ->     Russian (Kyrgyzstan) ->     俄文 (吉尔吉斯斯坦) 
+ ru_KZ ->     русский ->     Russian (Kazakhstan) ->     俄文 (哈萨克斯坦) 
+ ru_MD ->     русский ->     Russian (Moldova) ->     俄文 (摩尔多瓦) 
+ ru_RU ->     русский ->     Russian (Russia) ->     俄文 (俄罗斯) 
+ ru_UA ->     русский ->     Russian (Ukraine) ->     俄文 (乌克兰) 
+ rw ->     Kinyarwanda ->     Kinyarwanda ->     卢旺达文 
+ rw_RW ->     Kinyarwanda ->     Kinyarwanda (Rwanda) ->     卢旺达文 (卢旺达) 
+ rwk ->     Kiruwa ->     Rwa ->     罗瓦文 
+ rwk_TZ ->     Kiruwa ->     Rwa (Tanzania) ->     罗瓦文 (坦桑尼亚) 
+ saq ->     Kisampur ->     Samburu ->     桑布鲁文 
+ saq_KE ->     Kisampur ->     Samburu (Kenya) ->     桑布鲁文 (肯尼亚) 
+ sbp ->     Ishisangu ->     Sangu ->     桑古文 
+ sbp_TZ ->     Ishisangu ->     Sangu (Tanzania) ->     桑古文 (坦桑尼亚) 
+ seh ->     sena ->     Sena ->     塞纳文 
+ seh_MZ ->     sena ->     Sena (Mozambique) ->     塞纳文 (莫桑比克) 
+ ses ->     Koyraboro senni ->     Koyraboro Senni ->     东桑海文 
+ ses_ML ->     Koyraboro senni ->     Koyraboro Senni (Mali) ->     东桑海文 (马里) 
+ sg ->     Sängö ->     Sango ->     桑戈文 
+ sg_CF ->     Sängö ->     Sango (Central African Republic) ->     桑戈文 (中非共和国) 
+ shi ->     ⵜⴰⵎⴰⵣⵉⵖⵜ ->     Tachelhit ->     希尔哈文 
+ shi_LATN ->     tamazight ->     Tachelhit (LATN) ->     希尔哈文 (LATN) 
+ shi_LATN_MA ->     tamazight ->     Tachelhit (Morocco,MA) ->     希尔哈文 (摩洛哥,MA) 
+ shi_TFNG ->     ⵜⴰⵎⴰⵣⵉⵖⵜ ->     Tachelhit (TFNG) ->     希尔哈文 (TFNG) 
+ shi_TFNG_MA ->     ⵜⴰⵎⴰⵣⵉⵖⵜ ->     Tachelhit (Morocco,MA) ->     希尔哈文 (摩洛哥,MA) 
+ si ->     සිංහල ->     Sinhala ->     僧伽罗文 
+ si_LK ->     සිංහල ->     Sinhala (Sri Lanka) ->     僧伽罗文 (斯里兰卡) 
+ sk ->     slovenčina ->     Slovak ->     斯洛伐克文 
+ sk_SK ->     slovenčina ->     Slovak (Slovakia) ->     斯洛伐克文 (斯洛伐克) 
+ sl ->     slovenščina ->     Slovenian ->     斯洛文尼亚文 
+ sl_SI ->     slovenščina ->     Slovenian (Slovenia) ->     斯洛文尼亚文 (斯洛文尼亚) 
+ sn ->     chiShona ->     Shona ->     绍纳文 
+ sn_ZW ->     chiShona ->     Shona (Zimbabwe) ->     绍纳文 (津巴布韦) 
+ so ->     Soomaali ->     Somali ->     索马里文 
+ so_DJ ->     Soomaali ->     Somali (Djibouti) ->     索马里文 (吉布提) 
+ so_ET ->     Soomaali ->     Somali (Ethiopia) ->     索马里文 (埃塞俄比亚) 
+ so_KE ->     Soomaali ->     Somali (Kenya) ->     索马里文 (肯尼亚) 
+ so_SO ->     Soomaali ->     Somali (Somalia) ->     索马里文 (索马里) 
+ sq ->     shqip ->     Albanian ->     阿尔巴尼亚文 
+ sq_AL ->     shqip ->     Albanian (Albania) ->     阿尔巴尼亚文 (阿尔巴尼亚) 
+ sq_MK ->     shqip ->     Albanian (Macedonia [FYROM]) ->     阿尔巴尼亚文 (马其顿) 
+ sr ->     Српски ->     Serbian ->     塞尔维亚文 
+ sr_CYRL ->     Српски ->     Serbian (CYRL) ->     塞尔维亚文 (CYRL) 
+ sr_CYRL_BA ->     Српски ->     Serbian (Bosnia and Herzegovina,BA) ->     塞尔维亚文 (波斯尼亚和黑塞哥维那,BA) 
+ sr_CYRL_ME ->     Српски ->     Serbian (Montenegro,ME) ->     塞尔维亚文 (黑山共和国,ME) 
+ sr_CYRL_RS ->     Српски ->     Serbian (Serbia,RS) ->     塞尔维亚文 (塞尔维亚,RS) 
+ sr_LATN ->     Srpski ->     Serbian (LATN) ->     塞尔维亚文 (LATN) 
+ sr_LATN_BA ->     Srpski ->     Serbian (Bosnia and Herzegovina,BA) ->     塞尔维亚文 (波斯尼亚和黑塞哥维那,BA) 
+ sr_LATN_ME ->     Srpski ->     Serbian (Montenegro,ME) ->     塞尔维亚文 (黑山共和国,ME) 
+ sr_LATN_RS ->     Srpski ->     Serbian (Serbia,RS) ->     塞尔维亚文 (塞尔维亚,RS) 
+ sv ->     svenska ->     Swedish ->     瑞典文 
+ sv_AX ->     svenska ->     Swedish (Åland Islands) ->     瑞典文 (奥兰群岛) 
+ sv_FI ->     svenska ->     Swedish (Finland) ->     瑞典文 (芬兰) 
+ sv_SE ->     svenska ->     Swedish (Sweden) ->     瑞典文 (瑞典) 
+ sw ->     Kiswahili ->     Swahili ->     斯瓦希里文 
+ sw_KE ->     Kiswahili ->     Swahili (Kenya) ->     斯瓦希里文 (肯尼亚) 
+ sw_TZ ->     Kiswahili ->     Swahili (Tanzania) ->     斯瓦希里文 (坦桑尼亚) 
+ sw_UG ->     Kiswahili ->     Swahili (Uganda) ->     斯瓦希里文 (乌干达) 
+ swc ->     Kiswahili ya Kongo ->     Congo Swahili ->     刚果斯瓦希里文 
+ swc_CD ->     Kiswahili ya Kongo ->     Congo Swahili (Congo [DRC]) ->     刚果斯瓦希里文 (刚果（金）) 
+ ta ->     தமிழ் ->     Tamil ->     泰米尔文 
+ ta_IN ->     தமிழ் ->     Tamil (India) ->     泰米尔文 (印度) 
+ ta_LK ->     தமிழ் ->     Tamil (Sri Lanka) ->     泰米尔文 (斯里兰卡) 
+ ta_MY ->     தமிழ் ->     Tamil (Malaysia) ->     泰米尔文 (马来西亚) 
+ ta_SG ->     தமிழ் ->     Tamil (Singapore) ->     泰米尔文 (新加坡) 
+ te ->     తెలుగు ->     Telugu ->     泰卢固文 
+ te_IN ->     తెలుగు ->     Telugu (India) ->     泰卢固文 (印度) 
+ teo ->     Kiteso ->     Teso ->     特索文 
+ teo_KE ->     Kiteso ->     Teso (Kenya) ->     特索文 (肯尼亚) 
+ teo_UG ->     Kiteso ->     Teso (Uganda) ->     特索文 (乌干达) 
+ th ->     ไทย ->     Thai ->     泰文 
+ th_TH ->     ไทย ->     Thai (Thailand) ->     泰文 (泰国) 
+ ti ->     ትግርኛ ->     Tigrinya ->     提格里尼亚文 
+ ti_ER ->     ትግርኛ ->     Tigrinya (Eritrea) ->     提格里尼亚文 (厄立特里亚) 
+ ti_ET ->     ትግርኛ ->     Tigrinya (Ethiopia) ->     提格里尼亚文 (埃塞俄比亚) 
+ to ->     lea fakatonga ->     Tongan ->     汤加文 
+ to_TO ->     lea fakatonga ->     Tongan (Tonga) ->     汤加文 (汤加) 
+ tr ->     Türkçe ->     Turkish ->     土耳其文 
+ tr_CY ->     Türkçe ->     Turkish (Cyprus) ->     土耳其文 (塞浦路斯) 
+ tr_TR ->     Türkçe ->     Turkish (Turkey) ->     土耳其文 (土耳其) 
+ twq ->     Tasawaq senni ->     Tasawaq ->     北桑海文 
+ twq_NE ->     Tasawaq senni ->     Tasawaq (Niger) ->     北桑海文 (尼日尔) 
+ tzm ->     Tamaziɣt ->     Central Atlas Tamazight ->     塔马齐格特文 
+ tzm_LATN ->     Tamaziɣt ->     Central Atlas Tamazight (LATN) ->     塔马齐格特文 (LATN) 
+ tzm_LATN_MA ->     Tamaziɣt ->     Central Atlas Tamazight (Morocco,MA) ->     塔马齐格特文 (摩洛哥,MA) 
+ uk ->     українська ->     Ukrainian ->     乌克兰文 
+ uk_UA ->     українська ->     Ukrainian (Ukraine) ->     乌克兰文 (乌克兰) 
+ ur ->     اردو ->     Urdu ->     乌尔都文 
+ ur_IN ->     اردو ->     Urdu (India) ->     乌尔都文 (印度) 
+ ur_PK ->     اردو ->     Urdu (Pakistan) ->     乌尔都文 (巴基斯坦) 
+ uz ->     Ўзбек ->     Uzbek ->     乌兹别克文 
+ uz_ARAB ->     اوزبیک ->     Uzbek (ARAB) ->     乌兹别克文 (ARAB) 
+ uz_ARAB_AF ->     اوزبیک ->     Uzbek (Afghanistan,AF) ->     乌兹别克文 (阿富汗,AF) 
+ uz_CYRL ->     Ўзбек ->     Uzbek (CYRL) ->     乌兹别克文 (CYRL) 
+ uz_CYRL_UZ ->     Ўзбек ->     Uzbek (Uzbekistan,UZ) ->     乌兹别克文 (乌兹别克斯坦,UZ) 
+ uz_LATN ->     oʻzbekcha ->     Uzbek (LATN) ->     乌兹别克文 (LATN) 
+ uz_LATN_UZ ->     oʻzbekcha ->     Uzbek (Uzbekistan,UZ) ->     乌兹别克文 (乌兹别克斯坦,UZ)
